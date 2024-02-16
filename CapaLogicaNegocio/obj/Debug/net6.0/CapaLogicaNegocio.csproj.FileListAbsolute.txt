@@ -1,0 +1,23 @@
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\bin\Debug\net6.0\CapaLogicaNegocio.deps.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\bin\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\bin\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\refint\CapaLogicaNegocio.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\ref\CapaLogicaNegocio.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\bin\Debug\net6.0\CapaLogicaNegocio.deps.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\bin\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\bin\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\refint\CapaLogicaNegocio.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\CapaLogicaNegocio\obj\Debug\net6.0\ref\CapaLogicaNegocio.dll

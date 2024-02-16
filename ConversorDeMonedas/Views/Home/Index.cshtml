@@ -1,0 +1,47 @@
+﻿@model CapaLogicaNegocio.Dinero.Moneda
+@{
+    ViewData["Title"] = "Formulario";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Llene este formulario para convertir monedas de su preferencia</p>
+
+<br>
+
+<form method="post" asp-controller="Home" asp-action="Index">
+
+    <div class="input-group mb-3">
+
+        <span class="input-group-text">$</span>
+
+        <input asp-for="cantidad" type="number" step="0.01" class="form-control" aria-label="Amount (to the nearest dollar)">
+
+        <select asp-for="nombre" class="form-select" aria-label="Default select example">
+            <option selected>Elija moneda</option>
+            <option value="Peso">Peso</option>
+            <option value="Dolar">Dolar</option>
+            <option value="Euro">Euro</option>
+        </select>
+
+    </div>
+
+
+    <div class="input-group mb-3">
+
+
+        <span class="input-group-text">$</span>
+        <input disabled value="@Model.cantidad" type="number" step="0.01" class="form-control" aria-label="Amount (to the nearest dollar)">
+
+        <select asp-for="conversion" class="form-select" aria-label="Default select example">
+
+            <option selected>Elija moneda</option>
+            <option value="Peso">Peso</option>
+            <option value="Dolar">Dolar</option>
+            <option value="Euro">Euro</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Convertir</button>
+
+</form>
+

@@ -1,0 +1,68 @@
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\appsettings.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.staticwebassets.runtime.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.exe
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.deps.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.runtimeconfig.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.pdb
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.csproj.AssemblyReference.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.AssemblyInfoInputs.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.AssemblyInfo.cs
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.csproj.CoreCompileInputs.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.RazorAssemblyInfo.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.RazorAssemblyInfo.cs
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets\msbuild.ConversorDeMonedas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets\msbuild.build.ConversorDeMonedas.props
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConversorDeMonedas.props
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConversorDeMonedas.props
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\scopedcss\bundle\ConversorDeMonedas.styles.css
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\scopedcss\projectbundle\ConversorDeMonedas.bundle.scp.css
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.csproj.CopyComplete
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\refint\ConversorDeMonedas.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.pdb
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.genruntimeconfig.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ref\ConversorDeMonedas.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\appsettings.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.staticwebassets.runtime.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.exe
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.deps.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.runtimeconfig.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\ConversorDeMonedas.pdb
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\bin\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.AssemblyInfo.cs
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.RazorAssemblyInfo.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.RazorAssemblyInfo.cs
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets\msbuild.ConversorDeMonedas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets\msbuild.build.ConversorDeMonedas.props
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConversorDeMonedas.props
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConversorDeMonedas.props
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\scopedcss\bundle\ConversorDeMonedas.styles.css
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\scopedcss\projectbundle\ConversorDeMonedas.bundle.scp.css
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.csproj.CopyComplete
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\refint\ConversorDeMonedas.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.pdb
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ConversorDeMonedas.genruntimeconfig.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\ConversorDeMonedas\ConversorDeMonedas\obj\Debug\net6.0\ref\ConversorDeMonedas.dll
